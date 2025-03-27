@@ -40,7 +40,7 @@ This **Tic Tac Toe** game is a fun and interactive two-player game built using *
 This Tic Tac Toe game is designed for two players. The game alternates turns between "X" and "O". The interface updates dynamically, and the game announces the winner once a player forms a straight line of three marks. If no player wins, the game declares a draw. Players can reset the game anytime to start fresh.
 
 # Launch the Game
-1. Open index.html in a browser.
+1. Open `index.html` in a browser.
 2. Make your move and enjoy the game!
 
 # Screenshots
