@@ -13,7 +13,7 @@ A simple and interactive Tic Tac Toe game built using **HTML, CSS, and JavaScrip
 - [License](#license)
 
 # Introduction
-This *Tic Tac Toe* game is a fun and interactive two-player game built using **HTML, CSS, and JavaScript**. It features a responsive design, smooth animations, and sound effects for an engaging experience. Players take turns marking "X" or "O" on a 3x3 grid, aiming to form a winning sequence.
+This **Tic Tac Toe** game is a fun and interactive two-player game built using **HTML, CSS, and JavaScript**. It features a responsive design, smooth animations, and sound effects for an engaging experience. Players take turns marking "X" or "O" on a 3x3 grid, aiming to form a winning sequence.
 
 # Features
 - Interactive 3x3 Tic Tac Toe grid.
