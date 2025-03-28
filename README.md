@@ -49,5 +49,6 @@ This Tic Tac Toe game is designed for two players. The game alternates turns bet
 - [Vivek Kumar Behera](https://www.linkedin.com/in/vivek-kumar-behera/)
 
 # License
+This project is licensed under the [MIT License](opensource.org/licenses/MIT)
 
 # Have fun playing Tic Tac Toe!
