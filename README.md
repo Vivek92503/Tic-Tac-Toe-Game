@@ -46,7 +46,7 @@ This Tic Tac Toe game is designed for two players. The game alternates turns bet
 # Screenshots
 ![Screenshot (108)](https://github.com/user-attachments/assets/4fa0a318-68c8-43d1-afa4-b37614d74199)
 ![Screenshot (109)](https://github.com/user-attachments/assets/53c7a6a7-d6db-4700-92e3-64d56eab978d)
-![Screenshot (110)](https://github.com/user-attachments/assets/6e2a39ff-03ba-4f7b-999c-28404941e9e3))
+![Screenshot (110)](https://github.com/user-attachments/assets/6e2a39ff-03ba-4f7b-999c-28404941e9e3)
 
 # Contributors
 - [Vivek Kumar Behera](https://www.linkedin.com/in/vivek-kumar-behera/)
